@@ -12,5 +12,7 @@ In this tutorial, you will use Terraform to deploy a workspace containing a VPC 
 - Add an output for the region to `outputs.tf`.
 - `terraform apply -var aws_region=us-west-1`
 
+<img width="791" alt="Screen Shot 2565-01-27 at 13 30 50" src="https://user-images.githubusercontent.com/33342822/151304349-59a64cff-eb8f-4c94-b9d2-190f2eeadee5.png">
+
 ### Reference
 https://learn.hashicorp.com/tutorials/terraform/data-sources
